@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cindy8815
+- 👋 Hi, I’m Cindy (Yu Chen)
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning marketing and data analysis
 - 💞️ I’m looking to collaborate on coding with R and Python
